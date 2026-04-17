@@ -1,1 +1,1 @@
-Цей рядок змінено в main
+Starting string for conflict
